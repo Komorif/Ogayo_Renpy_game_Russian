@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/gui.rpy", line 92: unexpected EOF while parsing
+    show abyss
+          ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Tue Sep 12 21:34:43 2023
